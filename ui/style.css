@@ -6,6 +6,7 @@ body {
 
 .center {
     text-align: center;
+    margin-top: 40px;
 }
 
 .text-big {
@@ -18,9 +19,5 @@ body {
 
 .img-medium {
     height: 200px;
-}
-.back{
-    background-color:grey;
-    
 }
 
